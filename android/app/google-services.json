@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "531683715263",
+    "firebase_url": "https://becaku-indohackfest.firebaseio.com",
+    "project_id": "becaku-indohackfest",
+    "storage_bucket": "becaku-indohackfest.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:531683715263:android:f159c01250b0b170f8be0a",
+        "android_client_info": {
+          "package_name": "com.example.indo_hackfest_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "531683715263-4a4ls74aa7n70456ulodvun29k3t11bv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1TMBezeEx2Hv-6Ktd5Xvm9_vEaNMRonc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "531683715263-4a4ls74aa7n70456ulodvun29k3t11bv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
